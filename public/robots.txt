@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://howtowriteacheck.online
+
+# Sitemaps
+Sitemap: https://howtowriteacheck.online/sitemap.xml
+Sitemap: https://howtowriteacheck.online/server-sitemap.xml
