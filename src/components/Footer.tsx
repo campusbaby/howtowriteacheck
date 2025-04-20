@@ -36,6 +36,14 @@ export default function Footer() {
             >
               {language === 'en' ? 'Simulator' : '模拟器'}
             </Link>
+            <a 
+              href="https://link.zhihu.com/?target=https%3A%2F%2Fhowtowriteacheck.online%2F" 
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sm text-gray-500 hover:text-gray-900"
+            >
+              {language === 'en' ? 'Zhihu' : '知乎'}
+            </a>
           </div>
         </div>
       </div>
